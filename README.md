@@ -61,6 +61,7 @@ Visit: http://localhost:5173
 ```
 
 📁 Folder Structure
+
 src/
 │
 ├── assets/            # Images, logos, background videos
@@ -82,4 +83,4 @@ You can deploy Restaura on:
 📫 Contact
 - Email: suaibsaifi971@gmail.com
 - LinkedIn: linkedin.com/in/suaib-saifi
-- Portfolio: [yourwebsite.com](https://my-portfolio-two-phi-39.vercel.app/)
+- [Visit my portfolio](https://my-portfolio-two-phi-39.vercel.app/)
